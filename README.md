@@ -9,7 +9,7 @@ I'm an undergraduted student who is interested in making web and managing data i
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](http://sugarifdev.vercel.app/)
 * ✉️  You can contact me at [agus.rifaldi@outlook.com](mailto:agus.rifaldi@outlook.com)
-* 🧠  I'm learning Flutter and ReactJs
+* 🧠  I'm learning Data Science and Web Developing
 
 ### Skills
 
