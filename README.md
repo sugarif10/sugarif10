@@ -4,7 +4,7 @@ Hi 👋 My name is Agus Rifaldi
 Junior Web Developer and Data Scientist
 ---------------------------------------
 
-I'm an undergraduted student who is interested in making web and managing data into pieces of information.
+I'm a graduted student who is interested in making web and managing data into pieces of information.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](http://sugarifdev.vercel.app/)
